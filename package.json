@@ -1,0 +1,15 @@
+{
+  "name": "jsnsd",
+  "version": "1.0.0",
+  "description": "My studies to get JSNSD from Linux Foundation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
